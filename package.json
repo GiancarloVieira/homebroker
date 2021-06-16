@@ -5,8 +5,9 @@
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
-    "deploy": "ng deploy --base-href=https://CONDUCTOR\giancarlo.castro.github.io/tela-cotacoes-de-acoes-santander",
-    "test": "ng test"
+    "deploy": "ng deploy --base-href=https://giancarlovieira.github.io/homebroker/ --no-silent",
+    "test": "ng test",
+    "lint": "ng lint"
   },
   "private": true,
   "dependencies": {
